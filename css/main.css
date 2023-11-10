@@ -571,39 +571,21 @@ video {
   margin-right: auto;
 }
 
-<<<<<<< HEAD
-.mb-10 {
-  margin-bottom: 2.5rem;
-}
-
-.mb-32 {
-  margin-bottom: 8rem;
-}
-
-.mb-4 {
-  margin-bottom: 1rem;
-}
-
-.mt-10 {
-  margin-top: 2.5rem;
-}
-
-.mt-16 {
-=======
 .my-16 {
->>>>>>> features
   margin-top: 4rem;
   margin-bottom: 4rem;
 }
 
-<<<<<<< HEAD
-=======
 .-mt-14 {
   margin-top: -3.5rem;
 }
 
 .mb-10 {
   margin-bottom: 2.5rem;
+}
+
+.mb-16 {
+  margin-bottom: 4rem;
 }
 
 .mb-32 {
@@ -630,15 +612,6 @@ video {
   margin-top: 8rem;
 }
 
-.mb-12 {
-  margin-bottom: 3rem;
-}
-
-.mb-16 {
-  margin-bottom: 4rem;
-}
-
->>>>>>> features
 .flex {
   display: flex;
 }
@@ -713,15 +686,12 @@ video {
   margin-bottom: calc(0.75rem * var(--tw-space-y-reverse));
 }
 
-<<<<<<< HEAD
-=======
 .space-y-6 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(1.5rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(1.5rem * var(--tw-space-y-reverse));
 }
 
->>>>>>> features
 .space-y-8 > :not([hidden]) ~ :not([hidden]) {
   --tw-space-y-reverse: 0;
   margin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse)));
@@ -764,14 +734,11 @@ video {
   padding-right: 1rem;
 }
 
-<<<<<<< HEAD
-=======
 .px-5 {
   padding-left: 1.25rem;
   padding-right: 1.25rem;
 }
 
->>>>>>> features
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
@@ -810,13 +777,10 @@ video {
   line-height: 1.25rem;
 }
 
-<<<<<<< HEAD
-=======
 .font-bold {
   font-weight: 700;
 }
 
->>>>>>> features
 .text-darkGrayishBlue {
   --tw-text-opacity: 1;
   color: hsl(227 12% 61% / var(--tw-text-opacity));
@@ -854,13 +818,10 @@ video {
     width: 50%;
   }
 
-<<<<<<< HEAD
-=======
   .md\:w-1\/3 {
     width: 33.333333%;
   }
 
->>>>>>> features
   .md\:flex-row {
     flex-direction: row;
   }
