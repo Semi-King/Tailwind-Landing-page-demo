@@ -11,5 +11,14 @@
     "not firefox <= 118",
     "not safari <= 17",
     "not samsung <= 22"
-  ]
+  ],
+  "hints": {
+    "button-type": "off",
+    "axe/name-role-value": [
+      "default",
+      {
+        "button-name": "off"
+      }
+    ]
+  }
 }
